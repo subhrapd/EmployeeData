@@ -1,0 +1,9 @@
+id,first_name,last_name,email,department,salary
+1,Alice,Johnson,alice.johnson@email.com,Sales,55000.00
+2,Bob,Smith,bob.smith@email.com,Marketing,48000.00
+3,Charlie,Brown,charlie.brown@email.com,Sales,60000.00
+4,David,Wilson,david.wilson@email.com,HR,45000.00
+5,Eva,Davis,eva.davis@email.com,Sales,52000.00
+6,Frank,Miller,frank.miller@email.com,Marketing,47000.00
+7,Jack,Hernandez,jack.hernandez@email.com,HR,43000.00
+8,Hannah,Garcia,hannah.garcia@email.com,IT,62000.00
